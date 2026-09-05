@@ -1,0 +1,33 @@
+{
+  "scenes": [
+    {
+      "scene_number": 1,
+      "event": "User felt really nervous before an exam.",
+      "visual_description": "A close view of the user waiting quietly before the exam, with an anxious expression and tense hands. The surroundings remain indistinct to preserve the unspecified location.",
+      "characters": [
+        "user"
+      ],
+      "location": "unspecified",
+      "time_of_day": "unspecified",
+      "atmosphere": "tense and anticipatory",
+      "shot_type": "close-up",
+      "camera_motion": "slow push-in",
+      "duration_seconds": 5
+    },
+    {
+      "scene_number": 2,
+      "event": "After the exam, the user's friend surprised them with coffee, helping them feel much better.",
+      "visual_description": "The friend offers the user a coffee. The user's face softens into visible relief as they accept the drink, while the friend looks thoughtful and supportive.",
+      "characters": [
+        "user",
+        "friend"
+      ],
+      "location": "unspecified",
+      "time_of_day": "unspecified",
+      "atmosphere": "warm, caring, and reassuring",
+      "shot_type": "medium two-shot",
+      "camera_motion": "gentle pan",
+      "duration_seconds": 6
+    }
+  ]
+}

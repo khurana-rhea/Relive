@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+
+#Python cache files
+_pycache_/
+*._pycache_
+#Environment variables / API keys
+.environment
+
+#macOS files
+.DS_Store
+
+# Local music asset
+dreamy_ambient.mp3

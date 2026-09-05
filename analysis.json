@@ -1,0 +1,69 @@
+{
+  "events": [
+    {
+      "event": "user felt really nervous before an exam",
+      "characters": [
+        "user"
+      ],
+      "location": "unspecified",
+      "location_source": "default",
+      "time_of_day": "unspecified",
+      "time_source": "default",
+      "emotions": [
+        "nervousness",
+        "anticipation"
+      ],
+      "importance": "high",
+      "explicit_visual_details": [],
+      "weather": "unspecified",
+      "weather_source": "default",
+      "atmosphere": "tense and anticipatory",
+      "character_expressions": [
+        {
+          "character": "user",
+          "expression": "anxious",
+          "source": "inferred"
+        }
+      ]
+    },
+    {
+      "event": "After the exam, user's friend surprised user with coffee, helping user feel much better",
+      "characters": [
+        "user",
+        "friend"
+      ],
+      "location": "unspecified",
+      "location_source": "default",
+      "time_of_day": "unspecified",
+      "time_source": "default",
+      "emotions": [
+        "relief",
+        "gratitude",
+        "comfort"
+      ],
+      "importance": "high",
+      "explicit_visual_details": [
+        "coffee"
+      ],
+      "weather": "unspecified",
+      "weather_source": "default",
+      "atmosphere": "warm, caring, and reassuring",
+      "character_expressions": [
+        {
+          "character": "user",
+          "expression": "relieved",
+          "source": "inferred"
+        },
+        {
+          "character": "friend",
+          "expression": "thoughtful",
+          "source": "inferred"
+        }
+      ]
+    }
+  ],
+  "emotional_arc": [
+    "Intense nervousness and anticipation before the exam",
+    "Relief and comfort after a thoughtful coffee surprise from a friend"
+  ]
+}
